@@ -1,4 +1,4 @@
-![TopRoms Logo](./assets/toproms-logo-greyscale.png)
+![TopRoms Logo](./assets/toproms-logo-black.png)
 
 ## Welcome to TopRoms
 
