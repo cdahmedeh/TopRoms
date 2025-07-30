@@ -16,7 +16,7 @@ My main motive with TopRoms was to provide a more portable package for retro ROM
 
 ## Content
 
-[Sets](./docs/sets) - Sets and Systems included in TopRoms
+[Sets](./docs/sets/README.md) - Sets and Systems included in TopRoms
 
 ## Suggestions
 
@@ -24,4 +24,4 @@ If you have a game to suggest, please leave me an email at toproms@cdahmedeh.net
 
 ## Learn More
 
-[History](./docs/history) - The Story Behind TopRoms
+[History](./docs/history/README.md) - The Story Behind TopRoms
