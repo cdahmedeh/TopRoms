@@ -25,3 +25,12 @@ If you have a game to suggest, please leave me an email at toproms@cdahmedeh.net
 ## Learn More
 
 [History](./docs/HISTORY.md) - The Story Behind TopRoms
+
+## Similar Projects
+
+Other similar game curation projects on the web:
+
+- [Retrogaming - Les Listes Des Meilleurs Jeux](https://github.com/cosmo0/retrogaming-meilleurs-jeux)
+- [Internet Archive - Retro Roms "Best" Set](https://archive.org/details/retro-roms-best-set)
+- [Internet Archive - Tiny Best Set: GO!](https://archive.org/details/tiny-best-set-go)
+- [reddit - TOP 100 Game Packs](https://www.reddit.com/r/Roms/comments/e5mndq/top_100_game_packs/)
