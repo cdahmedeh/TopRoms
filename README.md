@@ -10,9 +10,9 @@ My main motive with TopRoms was to provide a more portable package for retro ROM
 
 ## Downloads
 
-| Torrent | Release Notes | Date | Total Size | MD5 |
-| ------- | ---- | ---- | ---------- | ------ |
-| [TopRoms Collection - New Generation Edition](https://github.com/cdahmedeh/TopRoms/raw/refs/heads/main/torrents/TopRoms%20Collection%20-%202025-01-06.torrent) | [Notes](docs/notes/TR-2025-01-06.md) / [Blog](https://www.cdahmedeh.net/blog/2025/1/7/toproms-enters-a-new-generation) | 2025-01-06 | 1.575 TiB | E2C40C7DEA41050F811E96802561D5FE
+| Torrent | Magnet Link |Release Notes | Date | Total Size | MD5 |
+| ------- | ------------| ---- | ---- | ---------- | ------ |
+| [TopRoms Collection - New Generation Edition](https://github.com/cdahmedeh/TopRoms/raw/refs/heads/main/torrents/TopRoms%20Collection%20-%202025-01-06.torrent) |[Magnet Link](magnet:?xt=urn:btih:66185470dba53daf80a8ff4e06ef126c88e4e1e6&dn=TopRoms%20Collection&xl=1732104520899&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce)| [Notes](docs/notes/TR-2025-01-06.md) / [Blog](https://www.cdahmedeh.net/blog/2025/1/7/toproms-enters-a-new-generation) | 2025-01-06 | 1.575 TiB | E2C40C7DEA41050F811E96802561D5FE
 
 ## Content
 
