@@ -18,9 +18,13 @@ My main motive with TopRoms was to provide a more portable package for retro ROM
 
 [Sets](./docs/SETS.md) - Sets and Systems included in TopRoms
 
+## Discussions
+
+Have discussions about TopRoms in the new [GitHub Discussions](https://github.com/cdahmedeh/TopRoms/discussions) section above. You can talk about TopRoms here! Make recommendations to be added to the next edition of TopRoms. Share how you use TopRoms with your setup!
+
 ## Suggestions
 
-If you have a game to suggest, please leave me an email at toproms@cdahmedeh.net . Keep in mind, your suggestions should be backed by an external source such as a blog or magazine.
+If you have a game to suggest, leave a note in the [GitHub discussions](https://github.com/cdahmedeh/TopRoms/discussions) or email me at toproms@cdahmedeh.net
 
 ## Learn More
 
@@ -34,3 +38,4 @@ Other similar game curation projects on the web:
 - [Internet Archive - Retro Roms "Best" Set](https://archive.org/details/retro-roms-best-set)
 - [Internet Archive - Tiny Best Set: GO!](https://archive.org/details/tiny-best-set-go)
 - [reddit - TOP 100 Game Packs](https://www.reddit.com/r/Roms/comments/e5mndq/top_100_game_packs/)
+- [Cylum's ROM Sets/Collection Packs](https://pirates-forum.org/Thread-Cylum-s-ROM-Sets-Collection-Packs)
