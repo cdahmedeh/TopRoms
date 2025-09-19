@@ -39,3 +39,4 @@ Other similar game curation projects on the web:
 - [Internet Archive - Tiny Best Set: GO!](https://archive.org/details/tiny-best-set-go)
 - [reddit - TOP 100 Game Packs](https://www.reddit.com/r/Roms/comments/e5mndq/top_100_game_packs/)
 - [Cylum's ROM Sets/Collection Packs](https://pirates-forum.org/Thread-Cylum-s-ROM-Sets-Collection-Packs)
+- [aevans0001 - All Killer No Filler Lists](https://www.reddit.com/r/Roms/comments/1nd1i5v/all_killer_no_filler_lists/)
