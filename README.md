@@ -37,6 +37,8 @@ If you have a game to suggest, leave a note in the [GitHub discussions](https://
 - [Daijishō](https://github.com/TapiocaFox/Daijishou) - An Android front-end for your emulation needs. Probably the most beautiful interface I've seen in a launcher. Great for taking your collection with you on-the-go.
 - [ES-DE](https://es-de.org) - A multi-platform front-end for Windows, macOS, Linux and even Android. With a decently easy-to-use scraping.
 - [HyperSpin](https://hyperspin-fe.com) - Arguably the most dynamic and visually pleasing interfaces popular with those building their own arcade machines. Incredibly difficult to setup and very steep learning curve.
+- [Batocera.linux](https://batocera.org) - An operating system with a front-end designed for portable devices, mainly dedicated emulator handhelds like Anbernic.
+- [EmuDeck](https://www.emudeck.com) - Integrates with Steam so that your collection shows up there. Automatically downloads and sets up emulators with basic scraping. Works great on the Steam Deck running SteamOS.
 
 ## Resources
 
