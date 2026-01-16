@@ -30,6 +30,20 @@ If you have a game to suggest, leave a note in the [GitHub discussions](https://
 
 [History](./docs/HISTORY.md) - The Story Behind TopRoms
 
+## Frontends
+
+- [LaunchBox](https://www.launchbox-app.com) - My favourite frontend for desktop PC. Great for handling large collections. Comes with the excellent BigBox big-picture mode. However, quite difficult to set up with a steep learning curve.
+- [RetroBat](https://www.retrobat.org) - Wonderful for a living room media-centre setup. Incredibly powerful, various tweaks at your fingertips and beautiful EmulationStation interface. Surprisingly intuitive to set up and pulls metadata and images automatically.
+- [Daijishō](https://github.com/TapiocaFox/Daijishou) - An Android front-end for your emulation needs. Probably the most beautiful interface I've seen in a launcher. Great for taking your collection with you on-the-go.
+- [ES-DE](https://es-de.org) - A multi-platform front-end for Windows, macOS, Linux and even Android. With a decently easy-to-use scraping.
+- [HyperSpin](https://hyperspin-fe.com) - Arguably the most dynamic and visually pleasing interfaces popular with those building their own arcade machines. Incredibly difficult to setup and very steep learning curve.
+
+## Resources
+
+- [Emulation General Wiki](emulation.gametechwiki.com/) - A great place to find information about emulators, compatibility and recommendations.
+- [Myrient](https://myrient.erista.me) - Finding ROMs was difficult in the past with sketchy websites, slow downloads and malware. A non-profit project that hosts the majority of ROM project collections like No-Intro and Redump.
+- [Pleasure Dome](https://pleasuredome.github.io/pleasuredome/) - What started a private tracker for the latest and greatest in ROM sets, especially Arcade. Has become a little corner on GitHub with exhaustive packages of MAME and non-MAME sets.
+
 ## Similar Projects
 
 Other similar game curation projects on the web:
@@ -40,3 +54,7 @@ Other similar game curation projects on the web:
 - [reddit - TOP 100 Game Packs](https://www.reddit.com/r/Roms/comments/e5mndq/top_100_game_packs/)
 - [Cylum's ROM Sets/Collection Packs](https://pirates-forum.org/Thread-Cylum-s-ROM-Sets-Collection-Packs)
 - [aevans0001 - All Killer No Filler Lists](https://www.reddit.com/r/Roms/comments/1nd1i5v/all_killer_no_filler_lists/)
+
+## Transparency
+
+The TopRoms logo was AI-generated.
