@@ -45,6 +45,11 @@ Later, I thought that my project would be useful to others and became public in 
 
 Now, TopRoms has over 50 systems, with a seemingly massive size of 1.6 TB but this a far-cry from a couple dozen terabytes needed to host complete sets for each of the platforms. The collection was initially hosted on MEGA, but kept exceeding the bandwidth limit. So the collection was moved to a torrent, which really simplified things and made downloading the set more convenient and practical. For me, the most important features are the ability to only select the systems you want, and only download the differences when a new set is available.
 
+</details>
+
+<details>
+<summary><b>Curation Process</b></summary>
+
 ### Curation
 
 Now, how can I reliably curate a set of quality games and include every game you can think of without having an exhaustive set? Well, this is something I'm keeping as a secret recipe since this is what keeps TopRoms unique. All I can say is that I rely heavily on online resources like blog, top lists, articles on gaming websites, review aggregators, printed magazines and a few other obscure places. I am focused on titles with great gameplay but also best-selling titles and hidden gems. The biggest criteria is not including games for the sake of my own nostalgia or my own picks. Every game choice needs to be backed by someone else.
