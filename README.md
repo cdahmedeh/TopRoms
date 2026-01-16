@@ -46,6 +46,7 @@ If you have a game to suggest, leave a note in the [GitHub discussions](https://
 - [Internet Archive](https://archive.org) - A gold-mine of posterity and legacy, not only for ROMs, but classic games of past eras. Books lost to time, movies and so much more. And the Wayback Machine for useful resources that have been dropped from hosting.
 - [Video Game History Foundation](https://gamehistory.org) - A tiny non-profit who really care about persevering history and somehow saving lost-media. My favourite efforts was discovering and dumping the games for the defunct Sega Channel and Brenda Ross’ portfolio with art from dropped levels of Sonic 2.
 - [Libretro and RetroArch](https://www.libretro.com) - I still remember the last 90s and early 2000s when emulators were all over the place, with feature sets and setup issues unique to each package. Libretro and the associated Libretro became unifying platform for almost all available emulators. Open-source and runs on pretty much any platform you can imagine. Interface is a bit complicated due to the plethora of features and tweaks but pairs excellently with various front-ends.
+- [MAME](https://www.mamedev.org) - The grand-father of vintage, emulation and game preservation. Absolutely obsessed with accuracy at any cost with excellent documentation. With pretty much every system imaginable emulated. A front-end is not optional with MAME.
 
 ## Similar Projects
 
