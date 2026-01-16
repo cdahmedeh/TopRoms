@@ -28,7 +28,34 @@ If you have a game to suggest, leave a note in the [GitHub discussions](https://
 
 ## Learn More
 
-[History](./docs/HISTORY.md) - The Story Behind TopRoms
+<details>
+<summary><b>History of TopRoms</b></summary>
+
+### History
+
+The project started around 2015, still a personal one. At the time, a Raspberry Pi was being used as an HTPC for the living room TV. The storage was limited due to the small capacity SD card but still wanted to include a decent collection of games to play. Some sets were decently small, for example, the entire NES library fit at around 400 megabytes but even something just slightly ahead like the SNES was much larger exceeding 3 GB. I also wanted to take my retro gaming on the road with my smartphone.
+
+Knowing that complete collections were full of mediocre titles and that only a select few were worth playing, why not include only those? For NES games, for example, it was somewhat easy, since I grew up with that console but the SNES was a bit harder since I never owned one. SNES also had a massive library of well-loved RPGs and I was totally unfamiliar with the genre.
+
+I started to probe various online resources, mostly blogs that had top lists landing with an eventual amalgamation of about 100 titles for each console. The Raspberry Pi was quite weak at the time, and I couldn't go further than the fourth-generation of systems. However, single-board computers were becoming more powerful and my TV was now tethered with a proper PC-based HTPC. It meant that much more powerful systems could be emulated. But I remained lazy and the collection was stagnant.
+
+Around 2016, a then coworker set up a makeshift arcade with a set of tabletop controllers and a small screen in the office's kitchen. Just like my earlier setup, it was using a Raspberry Pi running RetroPie. There was only a tiny collection of games, maybe a total of 20 games that were actually dumped from real cartridges. I suggested to have my collection used and the makeshift arcade was used by so many in the office afterwards, including the CEO who had a fondness for the Atari 2600.
+
+Later, I thought that my project would be useful to others and became public in April 2017. It had a measly ten systems and was quite incomplete, but it caught on nonetheless. I left it untouched for a while thinking nothing of it but I started getting emails about people using the collection for their various setups. I conceded, and in 2021, I began taking the project more seriously. The rest was history.
+
+Now, TopRoms has over 50 systems, with a seemingly massive size of 1.6 TB but this a far-cry from a couple dozen terabytes needed to host complete sets for each of the platforms. The collection was initially hosted on MEGA, but kept exceeding the bandwidth limit. So the collection was moved to a torrent, which really simplified things and made downloading the set more convenient and practical. For me, the most important features are the ability to only select the systems you want, and only download the differences when a new set is available.
+
+### Curation
+
+Now, how can I reliably curate a set of quality games and include every game you can think of without having an exhaustive set? Well, this is something I'm keeping as a secret recipe since this is what keeps TopRoms unique. All I can say is that I rely heavily on online resources like blog, top lists, articles on gaming websites, review aggregators, printed magazines and a few other obscure places. I am focused on titles with great gameplay but also best-selling titles and hidden gems. The biggest criteria is not including games for the sake of my own nostalgia or my own picks. Every game choice needs to be backed by someone else.
+
+To ensure the cleanest set possible, all entries are pulled from No-Intro, Redump, Trurip and TOSEC. Arcade games are pulled from publicly available MAME sets that can be found on the Internet Archive or elsewhere. Since many games are released in multiple regions, the choice Is usually US versions but sometimes the European or Japanese versions are better. Care is ensured that the image formats are compatible with popular emulators without the need for extracting ROMs, converting to compatible formats, and if possible, reduce the file sizes.
+
+The curation process has been the most time-consuming and honestly painful part of the process. While some of it is automated with scripts, there is still a significant manual processes to make up for the automation's gaps. Entries are verified against a list I collected based on my research to make sure everything is included. Cleaning up the file names and running the conversions take an inordinate amount of time.
+
+</details>
+
+
 
 ## Frontends
 
