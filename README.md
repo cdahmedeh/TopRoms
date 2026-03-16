@@ -143,21 +143,20 @@ The curation process has been the most time-consuming and honestly painful part 
 </details>
 
 
-
 ## Frontends
 
 - [LaunchBox](https://www.launchbox-app.com) - My favourite frontend for desktop PC. Great for handling large collections. Comes with the excellent BigBox big-picture mode. However, quite difficult to set up with a steep learning curve.
 - [RetroBat](https://www.retrobat.org) - Wonderful for a living room media-centre setup. Incredibly powerful, various tweaks at your fingertips and beautiful EmulationStation interface. Surprisingly intuitive to set up and pulls metadata and images automatically.
 - [Daijishō](https://github.com/TapiocaFox/Daijishou) - An Android front-end for your emulation needs. Probably the most beautiful interface I've seen in a launcher. Great for taking your collection with you on-the-go.
 - [ES-DE](https://es-de.org) - A multi-platform front-end for Windows, macOS, Linux and even Android. With a decently easy-to-use scraping.
-- [HyperSpin](https://hyperspin-fe.com) - Arguably the most dynamic and visually pleasing interfaces popular with those building their own arcade machines. Incredibly difficult to setup and very steep learning curve.
+- [HyperSpin](https://hyperspin-fe.com) - Arguably the most dynamic and visually pleasing interfaces popular with those building their own arcade cabinets or machines. Incredibly difficult to setup and very steep learning curve.
 - [Batocera.linux](https://batocera.org) - An operating system with a front-end designed for portable devices, mainly dedicated emulator handhelds like Anbernic.
 - [EmuDeck](https://www.emudeck.com) - Integrates with Steam so that your collection shows up there. Automatically downloads and sets up emulators with basic scraping. Works great on the Steam Deck running SteamOS.
 
 ## Resources
 
 - [Emulation General Wiki](emulation.gametechwiki.com/) - A great place to find information about emulators, compatibility and recommendations.
-- [Myrient](https://myrient.erista.me) - Finding ROMs was difficult in the past with sketchy websites, slow downloads and malware. A non-profit project that hosts the majority of ROM project collections like No-Intro and Redump.
+- [Myrient](https://myrient.erista.me) - Finding ROMs was difficult in the past with sketchy websites, slow downloads and malware. A non-profit project that hosts the majority of ROM project collections like No-Intro and Redump. **Myrient is going down at the end of March 2026, keep an eye on the [/r/savemyrient](https://www.reddit.com/r/savemyrient/) for developments.**
 - [Pleasure Dome](https://pleasuredome.github.io/pleasuredome/) - What started a private tracker for the latest and greatest in ROM sets, especially arcade. Has become a little corner on GitHub with exhaustive packages of MAME and non-MAME sets.
 - [Internet Archive](https://archive.org) - A gold-mine of posterity and legacy, not only for ROMs, but classic games of past eras. Books lost to time, movies and so much more. And the Wayback Machine for useful resources that have been dropped from hosting.
 - [Video Game History Foundation](https://gamehistory.org) - A tiny non-profit who really care about persevering history and somehow saving lost-media. My favourite efforts was discovering and dumping the games for the defunct Sega Channel and Brenda Ross’ portfolio with art from dropped levels of Sonic 2.
@@ -174,6 +173,14 @@ Other similar game curation projects on the web:
 - [reddit - TOP 100 Game Packs](https://www.reddit.com/r/Roms/comments/e5mndq/top_100_game_packs/)
 - [Cylum's ROM Sets/Collection Packs](https://pirates-forum.org/Thread-Cylum-s-ROM-Sets-Collection-Packs)
 - [aevans0001 - All Killer No Filler Lists](https://www.reddit.com/r/Roms/comments/1nd1i5v/all_killer_no_filler_lists/)
+
+## Disclaimer
+
+The TopRoms project does not making any profits via advertisments or subscriptions. Donations are not accepted for the TopRoms projects. I have no pecuniary interests and this is purely a passion projects.
+
+## A Note for Game Companies
+
+latency, emulation accuracy
 
 ## Transparency
 
