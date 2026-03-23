@@ -178,10 +178,6 @@ Other similar game curation projects on the web:
 
 The TopRoms project does not making any profits via advertisments or subscriptions. Donations are not accepted for the TopRoms projects. I have no pecuniary interests and this is purely a passion projects.
 
-## A Note for Game Companies
-
-latency, emulation accuracy
-
 ## Transparency
 
 The TopRoms logo was AI-generated.
