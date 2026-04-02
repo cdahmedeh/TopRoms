@@ -156,7 +156,7 @@ The curation process has been the most time-consuming and honestly painful part 
 ## Resources
 
 - [Emulation General Wiki](emulation.gametechwiki.com/) - A great place to find information about emulators, compatibility and recommendations.
-- [Myrient](https://myrient.erista.me) - Finding ROMs was difficult in the past with sketchy websites, slow downloads and malware. A non-profit project that hosts the majority of ROM project collections like No-Intro and Redump. **Myrient is going down at the end of March 2026, keep an eye on the [/r/savemyrient](https://www.reddit.com/r/savemyrient/) for developments.**
+- [MiNERVA Archive](minerva-archive.org) - The spiritual successor to the, now defunct, [Myrient](https://myrient.erista.me) project. Hosts a variety of preservation sets, like No-Intro, Redump and TOSEC. Unlike Myrient, distribution is through torrents instead of direct links.
 - [Pleasure Dome](https://pleasuredome.github.io/pleasuredome/) - What started a private tracker for the latest and greatest in ROM sets, especially arcade. Has become a little corner on GitHub with exhaustive packages of MAME and non-MAME sets.
 - [Internet Archive](https://archive.org) - A gold-mine of posterity and legacy, not only for ROMs, but classic games of past eras. Books lost to time, movies and so much more. And the Wayback Machine for useful resources that have been dropped from hosting.
 - [Video Game History Foundation](https://gamehistory.org) - A tiny non-profit who really care about persevering history and somehow saving lost-media. My favourite efforts was discovering and dumping the games for the defunct Sega Channel and Brenda Ross’ portfolio with art from dropped levels of Sonic 2.
